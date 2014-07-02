@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: |cff1784d1DonUI Raid|r
+## Notes: Raid layout for party and raid.
+## Author: Donpeppino
+## RequiredDeps: DonUI_Config, Tukui, DonUI
+
+Raid.lua
+DonUi_Raid_Grid.lua

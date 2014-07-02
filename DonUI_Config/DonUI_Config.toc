@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title:|cff1784d1DonUI Config|r
+## Author: Donpeppino
+## RequiredDeps: DonUI
+
+config.lua

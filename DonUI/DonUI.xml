@@ -1,0 +1,37 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+	<Script file="libs\LibSimpleSticky\LibSimpleSticky.lua"/>
+	
+	<Script file="core\functions.lua"/>
+	<Script file="core\api.lua"/>
+	<Script file="core\init.lua" />
+	<Script file="media\medias.lua" />
+	
+	<Script file="modules\panels\panels.lua"/>
+	
+	<Script file="modules\unitframes\layout.lua"/>
+	<Script file="modules\unitframes\CombatHide.lua"/>
+	
+	<Script file="modules\actionbars\bars.lua" />
+	
+	<Script file="modules\datatext\datatext.lua"/>
+	<Script file="modules\datatext\datatextSnapping.lua"/> 
+	
+	<Script file="modules\skins\recount.lua" />
+	<Script file="modules\skins\vengeance.lua" />
+	
+	<Script file="modules\misc\misc.lua"/>
+	
+	<Script file="modules\chat\chat.lua"/>
+	<Script file="modules\chat\chatFilter.lua"/>
+	
+	<Script file="modules\map\minimap.lua"/>
+	
+	<Script file="modules\install\install.lua"/>
+	
+	<Script file="core\commands.lua" />
+	
+	<Script file="locales\locales.lua" />
+	
+	<Script file="core\test.lua" />
+</Ui>

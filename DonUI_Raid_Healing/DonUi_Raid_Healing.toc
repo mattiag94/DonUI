@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: |cff1784d1DonUI Raid for healers|r
+## Notes: Raid layout for party and raid, Healer mode.
+## Author: Donpeppino
+## RequiredDeps: DonUI_Config, Tukui, DonUI
+
+Raid_Healing.lua
